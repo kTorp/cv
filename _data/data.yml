@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: kristoffer@torps.net
-    linkedin: Kristoffer Torp
+    linkedin: kristoffer-torp-0b1b17253
     github: kTorp
 
     interests:
@@ -32,7 +32,8 @@ career-profile:
     title: Career Profile
     summary: |
       Final year master student at Uppsala University, Applied Mathematics and Statistics. Research Assistant working with cluster setup. 
-      Interested in the application of ML to audio problems. Tackles problems carefully and with thought.
+      Interested in the application of ML to audio problems. Tackles problems carefully and with thought. Currently interested in Big Data frameworks
+      Spark, Deltalakes. Python and Scala. 
 
       
 education:
@@ -42,7 +43,7 @@ education:
         university: Uppsala University
         time: 2021 - ongoing
         details: |
-          With a focus towards pure maths and programming.
+          With a focus towards pure maths and programming. WASP Course, Spark. 
       - degree: Bachelor of Science - BS
         university: Uppsala University
         time: 2018 - 2021
@@ -70,7 +71,10 @@ projects:
     intro: >
       introtext
     assignments:
-      - title: Editor of ScaDaMaLe
+      - title: General JSON Notebook Autograder presentation for Databricks University Alliance
+        link: "https://www.youtube.com/watch?v=FlMM4pkafDI"
+        tagline: "sdsds"
+      - title: Co-Editor of ScaDaMaLe
         link: "https://lamastex.github.io/ScaDaMaLe/"
         tagline: "sdsds"
 
