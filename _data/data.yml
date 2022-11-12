@@ -13,33 +13,8 @@ sidebar:
 
     # Sidebar links
     email: kristoffer@torps.net
-    phone: ...
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+    linkedin: Kristoffer Torp
+    github: kTorp
 
     interests:
       title: Interests
@@ -56,22 +31,23 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Student and Research Assistant at Uppsala University.
+      Final year master student at Uppsala University, Applied Mathematics and Statistics. Research Assistant working with cluster setup. 
+      Interested in the application of ML to audio problems. Tackles problems carefully and with thought.
+
+      
 education:
     title: Education
     info:
-      - degree: Bachelor of Science - BS
-        university: Uppsala University
-        time: 2018 - 2021
-        details: |
-          With a focus towards pure maths and programming. 
-
-
       - degree: Master of Science - MS
         university: Uppsala University
         time: 2021 - ongoing
         details: |
           With a focus towards pure maths and programming.
+      - degree: Bachelor of Science - BS
+        university: Uppsala University
+        time: 2018 - 2021
+        details: |
+          With a focus towards pure maths and programming.        
 
 
 experiences:
@@ -90,7 +66,7 @@ experiences:
 
 
 projects:
-    title: Projects
+    title: Projects and Contributions
     intro: >
       introtext
     assignments:
@@ -98,28 +74,6 @@ projects:
         link: "https://lamastex.github.io/ScaDaMaLe/"
         tagline: "sdsds"
 
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
