@@ -66,7 +66,9 @@ experiences:
         time: Jul 2022 - Aug 2022
         company: Combient Mix · Internship
         details: |
-          Internship position 
+          Internship position with a mix of deliverables and self-studies. Learned to use Docker and Docker-Compose.
+          Set up an AutoGrader for Databricks Notebooks with Canvas interface. Studied high-performance Spark.   
+
 
 
 projects:
@@ -74,35 +76,15 @@ projects:
     intro: >
       introtext
     assignments:
-      - title: General JSON Notebook Autograder presentation for Databricks University Alliance
+      - title: Presentation
         link: "https://www.youtube.com/watch?v=FlMM4pkafDI"
-        tagline: "sdsds"
+        tagline: "General JSON Notebook Autograder presentation for Databricks University Alliance"
       - title: Co-Editor of ScaDaMaLe
         link: "https://lamastex.github.io/ScaDaMaLe/"
-        tagline: "sdsds"
+        tagline: "Lecture materials, weekly tests and final Assignment."
 
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
