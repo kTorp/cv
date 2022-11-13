@@ -31,12 +31,10 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Master student in Applied Mathematics and Statistics at Uppsala University with one final semester to go. Currently working with Spark, Scala and Python.
-      Research Assistant working with cluster setup. 
-      Interested in the application of ML to audio problems. Tackles problems carefully and with thought. Currently interested in Big Data frameworks
-      Spark, Deltalakes. Python and Scala. Currently pushing my studies towards 
-
-      
+      Final year Master student in Applied Mathematics and Statistics at Uppsala University. Currently working
+      with Hadoop administration and setup of on-premise clusters as a research assistant. Mostly work with Linux, Scala, Python and Spark. 
+      Currently pushing my studies towards ML and associated data handling systems such as Delta Lake. Tackles problems carefully and with thought.
+  
 education:
     title: Education
     info:
@@ -44,15 +42,16 @@ education:
         university: Uppsala University
         time: 2021 - ongoing
         details: |
-          With a focus towards pure maths and programming. WASP Course, Spark. 
+          Participant in WASP graduate course - Scalable Data Science and Machine Learning. Courses in High Performance Programming,
+          Dynamical Systems, Partial Differential Equations.
+          
       - degree: Bachelor of Science - BS, Mathematics
         university: Uppsala University
         time: 2018 - 2021
         details: |
-          With a focus towards pure maths. Elective courses in programming. Undergrad thesis in theoretical computer science
-          https://uu.diva-portal.org/smash/get/diva2:1589443/FULLTEXT01.pdf           
+          With a split focus between pure maths and programming. Undergrad thesis on theoretical computer science: recursive domain equations.
 
-
+              
 experiences:
     title: Experiences
     info:
