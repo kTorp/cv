@@ -20,7 +20,7 @@ career-profile:
     title: About Me
     summary: |
       Final year Master student in Applied Mathematics and Statistics at Uppsala University. Currently working
-      with Hadoop administration and setup of an on-premise cluster as a research assistant. Mostly works with Linux, Scala, Python and Spark. 
+      with the setup of an on-premise cluster as a research assistant. Mostly works with Linux, Scala, Python and Spark. 
       Currently pushing my studies towards ML and associated data handling systems such as Delta Lake. Tackles problems carefully and with thought.
   
 education:
@@ -46,7 +46,7 @@ experiences:
         time: Sep 2022 - Present
         company: Uppsala University · Part-time
         details: |
-          Currently responsible for setting up an on-premise hadoop cluster and associated tools able to handle
+          Currently responsible for setting up an on-premise hadoop cluster and associated frameworks able to handle
           the ingestion, analysis, and summary of 50+ TB's worth of data. My work includes the administration of 
           several tools such as Ansible, Delta Lake, Spark and general Linux know-how.
 
