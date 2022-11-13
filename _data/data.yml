@@ -20,7 +20,7 @@ career-profile:
     title: About Me
     summary: |
       Final year Master student in Applied Mathematics and Statistics at Uppsala University. Currently working
-      with Hadoop administration and setup of on-premise clusters as a research assistant. Mostly work with Linux, Scala, Python and Spark. 
+      with Hadoop administration and setup of an on-premise cluster as a research assistant. Mostly works with Linux, Scala, Python and Spark. 
       Currently pushing my studies towards ML and associated data handling systems such as Delta Lake. Tackles problems carefully and with thought.
   
 education:
@@ -31,13 +31,13 @@ education:
         time: 2021 - ongoing
         details: |
           Participant in WASP graduate course - Scalable Data Science and Machine Learning. Other courses include High Performance Programming,
-          Dynamical Systems, Partial Differential Equations.
+          Dynamical Systems and Partial Differential Equations.
           
       - degree: Bachelor of Science - BS, Mathematics
         university: Uppsala University
         time: 2018 - 2021
         details: |
-          With a split focus between pure maths and programming. Undergrad thesis in theoretical computer science on recursive domain equations.
+          Split focus between pure maths and programming. Undergrad thesis in theoretical computer science on recursive domain equations.
         
 experiences:
     title: Experiences
@@ -54,21 +54,20 @@ experiences:
         time: Jul 2022 - Aug 2022
         company: Combient Mix · Internship
         details: |
-          Internship position with a mix of deliverables and self-studies. Learned to use Docker and Docker-Compose.
-          Set up an AutoGrader for Databricks Notebooks with Canvas interface. Studied high-performance Spark.   
+          Internship position with a mix of deliverables and self-studies. Learned to create Docker and Docker-Compose images.
+          Set up an AutoGrader for Databricks Notebooks with a Canvas interface. Studied high-performance Spark.   
 
 
 
 projects:
     title: Projects and Contributions
     assignments:
-      - title: Presentation
+      - title: Presentation for Databricks University Alliance
         link: "https://www.youtube.com/watch?v=FlMM4pkafDI"
-        tagline: "General JSON Notebook Autograder presentation for Databricks University Alliance"
+        tagline: "General JSON Notebook Autograder "
       - title: Co-Editor of ScaDaMaLe
         link: "https://lamastex.github.io/ScaDaMaLe/"
-        tagline: "Lecture materials, weekly tests and final Assignment."
-
+        tagline: "Lecture materials, weekly tests and Final Assignment."
 
 
 
