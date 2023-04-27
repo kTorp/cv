@@ -19,25 +19,25 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Final year Master student in Applied Mathematics and Statistics at Uppsala University. Currently working as a research assistant where 
-      I'm tasked with setting up an on-premise analytics cluster. Experience working with Spark, Hadoop, Ansible, Delta Lake and Linux.  
-      Plays piano in my spare time, mostly late romantics. 
+      I am a final year Master's student in Applied Mathematics and Statistics at Uppsala University, currently working as a research assistant.
+      My main responsibility is setting up an on-premise analytics cluster. I have experience working with Spark, Hadoop, Ansible, Delta Lake, and Linux. 
+      In my spare time, I enjoy playing the piano, mostly late romantic pieces.
      
 education:
     title: Education
     info:
       - degree: Master of Science - MS, Applied Mathematics and Statistics
+        time: 2021 - Present
         university: Uppsala University
-        time: 2021 - ongoing
         details: |
           Participant in the WASP graduate course: Scalable Data Science and Machine Learning. 
           
       - degree: Bachelor of Science - BS, Mathematics
-        university: Uppsala University
         time: 2018 - 2021
+        university: Uppsala University      
         details: |
-          Major in mathematics with a minor in programming. Courses include: computer graphics with C++ and OpenGL, and high performance programming. 
-          Undergrad thesis in theoretical computer science on recursive domain equations. 
+          Major in mathematics with a minor in programming. Relevant coursework includes computer graphics with C++ and OpenGL, 
+          and high-performance programming. Undergraduate thesis in theoretical computer science on recursive domain equations.
               
 experiences:
     title: Experiences
@@ -46,16 +46,18 @@ experiences:
         time: Sep 2022 - Present
         company: Uppsala University · Part-time
         details: |
-          Responible for building and administrating a on-premise spark cluster to handle the ingestion, analysis and summary of a large dataset.
-          To this extent I have become proficient with configuration management tools like Ansible, analytics engines such as Apache Spark, distributed 
-          storage and data frameworks like HDFS and Delta Lake, together with general Linux administration. The cluster has a memory capacity of 70TB and 
-          can query billions of rows in seconds. 
+          Built and administered an on-premise Spark cluster for ingesting, analyzing, and summarizing large datasets.      
+          Proficient in configuration management tools like Ansible, analytics engines such as Apache Spark, 
+          distributed storage and data frameworks like HDFS and Delta Lake, together with general Linux administration.      
+          The cluster has a total memory capacity of 70TB and can query billions of rows in seconds.     
+ 
       - role: Data Engineering Science Intern 
         time: Jul 2022 - Aug 2022
         company: Combient Mix · Internship
         details: |
-          Internship position with a mix of deliverables and self-studies. Learned to use Docker and create Docker-Compose images. 
-          Set up an AutoGrader for Databricks Notebooks for use with Canvas learning platform. Studied high-performance Spark.   
+          Learned to use Docker and create Docker-Compose images.
+          Set up an AutoGrader for Databricks Notebooks for use with Canvas learning platform.
+          Studied high-performance Spark.  
 
 projects:
     title: Projects and Contributions
