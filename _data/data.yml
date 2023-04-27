@@ -46,16 +46,16 @@ experiences:
         time: Sep 2022 - Present
         company: Uppsala University · Part-time
         details: |
-          Currently responsible for setting up an on-premise hadoop cluster and associated frameworks able to handle
-          the ingestion, analysis, and summary of 50+ TB's worth of data. My work includes the us and administration of 
-          several tools such as Ansible, Delta Lake, Spark and general Linux know-how. 
-
+          Responible for building and administrating a on-premise spark cluster to handle the ingestion, analysis and summary of a large dataset.
+          To this extent I have become proficient with configuration management tools like Ansible, analytics engines such as Apache Spark, distributed 
+          storage and data frameworks like HDFS and Delta Lake, together with general Linux administration. The cluster has a memory capacity of 70TB and 
+          can query billions of rows in seconds. 
       - role: Data Engineering Science Intern 
         time: Jul 2022 - Aug 2022
         company: Combient Mix · Internship
         details: |
-          Internship position with a mix of deliverables and self-studies. Learned to create Docker and Docker-Compose images.
-          Set up an AutoGrader for Databricks Notebooks for use with Canvas. Studied high-performance Spark.   
+          Internship position with a mix of deliverables and self-studies. Learned to use Docker and create Docker-Compose images. 
+          Set up an AutoGrader for Databricks Notebooks for use with Canvas learning platform. Studied high-performance Spark.   
 
 projects:
     title: Projects and Contributions
