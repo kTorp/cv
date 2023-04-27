@@ -38,6 +38,7 @@ education:
         details: |
           Major in mathematics with a minor in programming. Relevant coursework includes computer graphics with C++ and OpenGL, 
           and high-performance programming. Undergraduate thesis in theoretical computer science on recursive domain equations.
+          https://uu.diva-portal.org/smash/get/diva2:1589443/FULLTEXT01.pdf
               
 experiences:
     title: Experiences
@@ -68,11 +69,6 @@ projects:
       - title: Co-Editor of ScaDaMaLe
         link: "https://lamastex.github.io/ScaDaMaLe/"
         tagline: "Lecture materials, weekly tests and Final Assignment."
-    title: Theses
-    assignments:
-      - title: Undergrad thesis
-        link: https://uu.diva-portal.org/smash/get/diva2:1589443/FULLTEXT01.pdf
-        tagline: "Recursive domain equations"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
