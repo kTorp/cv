@@ -19,10 +19,11 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Final year Master student in Applied Mathematics and Statistics at Uppsala University. Currently working
-      with the setup of an on-premise cluster as a research assistant. Mostly works with Linux, Scala, Python and Spark. 
-      Pushing my studies towards ML and associated data handling systems such as Delta Lake. Tackles problems carefully and with thought.
-  
+      
+      Final year Master student in Applied Mathematics and Statistics at Uppsala University. Currently working as a research assistant where 
+      I'm tasked with setting up a on-premise analytics cluster. One year's experience working with Spark, Hadoop, Ansible and Linux. Recently 
+      using Delta Lake as the underlying storage framework. Plays piano in spare time. 
+     
 education:
     title: Education
     info:
@@ -30,15 +31,15 @@ education:
         university: Uppsala University
         time: 2021 - ongoing
         details: |
-          Participant in WASP graduate course - Scalable Data Science and Machine Learning. Other courses include High Performance Programming,
-          Dynamical Systems and Partial Differential Equations.
+          Participant in the WASP graduate course: Scalable Data Science and Machine Learning. 
           
       - degree: Bachelor of Science - BS, Mathematics
         university: Uppsala University
         time: 2018 - 2021
         details: |
-          Split focus between pure maths and programming. Undergrad thesis in theoretical computer science on recursive domain equations.
-        
+          Major in mathematics with a minor in programming. Courses include: computer graphics with C++ and OpenGL, and high performance programming. 
+          Undergrad thesis in theoretical computer science on recursive domain equations. 
+              
 experiences:
     title: Experiences
     info:
@@ -47,8 +48,8 @@ experiences:
         company: Uppsala University · Part-time
         details: |
           Currently responsible for setting up an on-premise hadoop cluster and associated frameworks able to handle
-          the ingestion, analysis, and summary of 50+ TB's worth of data. My work includes the administration of 
-          several tools such as Ansible, Delta Lake, Spark and general Linux know-how.
+          the ingestion, analysis, and summary of 50+ TB's worth of data. My work includes the us and administration of 
+          several tools such as Ansible, Delta Lake, Spark and general Linux know-how. 
 
       - role: Data Engineering Science Intern 
         time: Jul 2022 - Aug 2022
@@ -56,8 +57,6 @@ experiences:
         details: |
           Internship position with a mix of deliverables and self-studies. Learned to create Docker and Docker-Compose images.
           Set up an AutoGrader for Databricks Notebooks for use with Canvas. Studied high-performance Spark.   
-
-
 
 projects:
     title: Projects and Contributions
@@ -68,8 +67,10 @@ projects:
       - title: Co-Editor of ScaDaMaLe
         link: "https://lamastex.github.io/ScaDaMaLe/"
         tagline: "Lecture materials, weekly tests and Final Assignment."
-
-
+    theses:
+      - title: Undergrad thesis
+        link: "https://uu.diva-portal.org/smash/get/diva2:1589443/FULLTEXT01.pdf"
+        tagline: Recursive domain equations
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
