@@ -20,8 +20,8 @@ career-profile:
     title: About Me
     summary: |
       Final year Master student in Applied Mathematics and Statistics at Uppsala University. Currently working as a research assistant where 
-      I'm tasked with setting up a on-premise analytics cluster. One year's experience working with Spark, Hadoop, Ansible and Linux. Recently 
-      using Delta Lake as the underlying storage framework. Plays piano in spare time. 
+      I'm tasked with setting up an on-premise analytics cluster. Experience working with Spark, Hadoop, Ansible, Delta Lake and Linux.  
+      Plays piano in my spare time, mostly late romantics. 
      
 education:
     title: Education
@@ -66,6 +66,11 @@ projects:
       - title: Co-Editor of ScaDaMaLe
         link: "https://lamastex.github.io/ScaDaMaLe/"
         tagline: "Lecture materials, weekly tests and Final Assignment."
+    title: Theses
+    assignments:
+      - title: Undergrad thesis
+        link: https://uu.diva-portal.org/smash/get/diva2:1589443/FULLTEXT01.pdf
+        tagline: "Recursive domain equations"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
